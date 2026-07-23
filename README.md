@@ -31,7 +31,7 @@ DevOps Engineer • MERN Stack Developer • Cloud Enthusiast
   - Redis
   - AWS
   - CI/CD
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **utkarsh.official621@gmail.com**
 
 ---
 
