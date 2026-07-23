@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋 I'm Utkarsh
 
-<!--
-**utkarsh621x/utkarsh621x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer & MERN Stack Developer
 
-Here are some ideas to get you started:
+I enjoy building scalable backend systems,
+deploying applications on cloud infrastructure,
+and automating deployments using Docker and CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning
+
+- Kubernetes
+- AWS
+- Terraform
+- Microservices
